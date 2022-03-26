@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.2",
+  "appInfo": {
+    "name": "Xerpihan Admin",
+    "description": "Xerpihan App",
+    "version": "ayowplbf",
+    "id": "cl15ei51g162669801s68inojmu2",
+    "url": "https://app.amplication.com/cl15ei51g162669801s68inojmu2",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "xerpihan",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl15ei51g162669801s68inojmu2",
+      "authProvider": "Jwt"
+    }
+  }
+}
